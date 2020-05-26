@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d42d158-d697-48a2-9595-f0b642b413fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/draw_picture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blender_Suzanne1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blender_Suzanne2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hull_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/draw_apc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/draw_bar_center.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/draw_rupc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/feature_with_accuracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/line2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplot_demo/two_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panorama_stitching_rotating_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perspective_correction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyechart/bar0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyechart/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyechart/geo_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyechart/render.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_point_polygon_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\pycharm_pro\draw_picture\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aBubtsunsuMhVSY8DlybmC3Wjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dead_fish" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm_pro\draw_picture" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.line2">
+    <configuration name="draw_apc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="draw_picture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplot_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot_demo/draw_apc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_bar_center" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="draw_picture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplot_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot_demo/draw_bar_center.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_rupc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="draw_picture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplot_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot_demo/draw_rupc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="draw_picture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplot_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot_demo/line.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="line2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="draw_picture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplot_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplot_demo/line2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.line" />
+      <item itemvalue="Python.draw_bar_center" />
+      <item itemvalue="Python.draw_apc" />
+      <item itemvalue="Python.draw_rupc" />
+      <item itemvalue="Python.line2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.line2" />
+        <item itemvalue="Python.draw_apc" />
+        <item itemvalue="Python.draw_bar_center" />
+        <item itemvalue="Python.draw_rupc" />
+        <item itemvalue="Python.line" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d42d158-d697-48a2-9595-f0b642b413fa" name="Default Changelist" comment="" />
+      <created>1586221382483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586221382483</updated>
+      <workItem from="1586221385095" duration="6401000" />
+      <workItem from="1586228430488" duration="7269000" />
+      <workItem from="1586309174590" duration="76000" />
+      <workItem from="1586512478926" duration="2793000" />
+      <workItem from="1587084942863" duration="8980000" />
+      <workItem from="1589941622431" duration="19239000" />
+      <workItem from="1590367786853" duration="5972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1080" y="607" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586512768436">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state x="-1080" y="607" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1586512768436" />
+    <state x="-760" y="506" key="FileChooserDialogImpl" timestamp="1590302101009">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state x="-760" y="506" key="FileChooserDialogImpl/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590302101009" />
+    <state x="-680" y="379" width="512" height="324" key="Github.ShareDialog" timestamp="1590458569057">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state x="-680" y="379" width="512" height="324" key="Github.ShareDialog/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458569057" />
+    <state x="-724" y="168" key="Github.UntrackedFilesDialog" timestamp="1590458080434">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state x="-724" y="168" key="Github.UntrackedFilesDialog/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458080434" />
+    <state width="510" height="385" key="GridCell.Tab.0.bottom" timestamp="1590458412921">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="510" height="385" key="GridCell.Tab.0.bottom/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458412921" />
+    <state width="510" height="385" key="GridCell.Tab.0.center" timestamp="1590458412921">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="510" height="385" key="GridCell.Tab.0.center/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458412921" />
+    <state width="510" height="385" key="GridCell.Tab.0.left" timestamp="1590458412920">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="510" height="385" key="GridCell.Tab.0.left/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458412920" />
+    <state width="510" height="385" key="GridCell.Tab.0.right" timestamp="1590458412921">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="510" height="385" key="GridCell.Tab.0.right/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458412921" />
+    <state width="1020" height="327" key="GridCell.Tab.1.bottom" timestamp="1590302106127">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="327" key="GridCell.Tab.1.bottom/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590302106127" />
+    <state width="1020" height="327" key="GridCell.Tab.1.center" timestamp="1590302106127">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="327" key="GridCell.Tab.1.center/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590302106127" />
+    <state width="1020" height="327" key="GridCell.Tab.1.left" timestamp="1590302106127">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="327" key="GridCell.Tab.1.left/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590302106127" />
+    <state width="1020" height="327" key="GridCell.Tab.1.right" timestamp="1590302106127">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state width="1020" height="327" key="GridCell.Tab.1.right/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590302106127" />
+    <state x="-1069" y="353" key="SettingsEditor" timestamp="1590458204687">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state x="-1069" y="353" key="SettingsEditor/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458204687" />
+    <state x="-949" y="275" key="Vcs.Push.Dialog.v2" timestamp="1590458524064">
+      <screen x="-1080" y="-208" width="1080" height="1920" />
+    </state>
+    <state x="-949" y="275" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1080.-208.1080.1920@-1080.-208.1080.1920" timestamp="1590458524064" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/matplot_demo/draw_apc.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/draw_picture$panorama_stitching_rotating_camera.coverage" NAME="panorama_stitching_rotating_camera Coverage Results" MODIFIED="1586514222469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/draw_picture$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1586228507907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyechart" />
+    <SUITE FILE_PATH="coverage/draw_picture$perspective_correction.coverage" NAME="perspective_correction Coverage Results" MODIFIED="1586515296563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/draw_picture$feature_with_accuracy.coverage" NAME="feature_with_accuracy Coverage Results" MODIFIED="1587085209156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$draw_apc.coverage" NAME="draw_apc Coverage Results" MODIFIED="1590118913612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$show_point_polygon_test.coverage" NAME="show_point_polygon_test Coverage Results" MODIFIED="1586512573913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/draw_picture$demo.coverage" NAME="demo Coverage Results" MODIFIED="1586224305873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$draw_bar_center.coverage" NAME="draw_bar_center Coverage Results" MODIFIED="1590118633929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$two_bar.coverage" NAME="two_bar Coverage Results" MODIFIED="1587085232303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$line2.coverage" NAME="line2 Coverage Results" MODIFIED="1590457950059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$line.coverage" NAME="line Coverage Results" MODIFIED="1590026720764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$draw_rupc.coverage" NAME="draw_rupc Coverage Results" MODIFIED="1590052235296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplot_demo" />
+    <SUITE FILE_PATH="coverage/draw_picture$hull_demo.coverage" NAME="hull_demo Coverage Results" MODIFIED="1586512771125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
